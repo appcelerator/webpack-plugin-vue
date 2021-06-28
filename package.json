@@ -31,7 +31,7 @@
   "devDependencies": {
     "eslint": "^7.29.0",
     "eslint-config-axway": "^6.0.2",
-    "webpack": "^4.43.0"
+    "webpack": "^4.46.0"
   },
   "peerDependencies": {
     "titanium-vue-template-compiler": ">=0.1.0",
